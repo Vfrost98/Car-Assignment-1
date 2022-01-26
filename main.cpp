@@ -8,7 +8,7 @@ using namespace std;
 int main() {
   
   //Creating 1st car w/method test
-	Car sport("Mazda - MX-5 Miata", 50); //car object 1
+  Car sport("Mazda - MX-5 Miata", 50); //car object 1
   sport.print();
   sport.stop();
   sport.print();
